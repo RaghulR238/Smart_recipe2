@@ -33,7 +33,7 @@ const connect=async()=>{
 
 
 const corsOptions = {
-    origin: 'http://localhost:3000',  // Replace with your actual client origin
+    origin: 'https://main--symphonious-fenglisu-2be858.netlify.app/',  // Replace with your actual client origin
     credentials: true,
   };
 
